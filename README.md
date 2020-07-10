@@ -1,2 +1,2 @@
 # duplicate_files
-Script to found duplicate files in a folder
+Script to find duplicate files in a folder
