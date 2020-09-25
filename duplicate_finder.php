@@ -1,6 +1,6 @@
 <?php
 /**
- * This script moves to another folder the duplicate files.
+ * This script search for duplicate files inside the directory.
  *
  * @author Alexandre J. Martins <alexandre@ajmartins.com.br> github.com/amartins90
  *
@@ -44,6 +44,6 @@ if ($duplicate > 0) {
 
 } else {
 
-	echo "Duplicate files not found".PHP_EOL;
+	echo "No duplicate files found".PHP_EOL;
 
 }
